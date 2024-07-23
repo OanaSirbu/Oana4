@@ -1,5 +1,5 @@
 # About me
-Hi there! 👋 I'm Oana, a Master's student in Computer Science with a keen interest in Artificial Intelligence (AI). Throughout my academic journey, I've delved into various aspects of AI, including Machine Learning, Natural Language Processing (NLP), and Computer Vision.
+Hi! 👋 I'm Oana, a Master's student in Computer Science with a passion for Artificial Intelligence (AI). During my studies, I've explored different areas of AI, such as Machine Learning, Natural Language Processing and Computer Vision.
 
 ## Skills
 
